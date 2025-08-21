@@ -27,33 +27,36 @@ As an **aspiring business and operations leader**, I thrive on:
 - **Peer-to-Peer Encrypted and Compressed Distributed File Storage System**  
   Developed a decentralized storage system using chunk-based compression (Zstd) and AES-256 encryption, with distributed architecture (consistent hashing, gRPC, BadgerDB, data replication) to ensure security, scalability, and efficiency.
 
-- **[Hangman Game](https://github.com/AfnanAhmed07/Hangman-Game)** 🎮  
+- **[Hangman Game](https://github.com/Anvison/codealpha_tasks/blob/main/game.py)** 🎮  
   A Python-based command-line Hangman game with word selection & input validation.
 
-- **[Chat-Bot](https://github.com/AfnanAhmed07/Chat-Bot)** 💬  
+- **[Chat-Bot](https://github.com/Anvison/codealpha_tasks/blob/main/chatbot.py)** 💬  
   A simple Python chatbot with rule-based conversational logic.
 
-- **[Stock Portfolio Tracker](https://github.com/AfnanAhmed07/Stock-Portfolio-Tracker)** 📈  
+- **[Stock Portfolio Tracker](https://github.com/Anvison/codealpha_tasks/blob/main/stock_tracker.py)** 📈  
   A Python tool for tracking stock investments with real-time data visualization.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills & Tools
 
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
-- ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-- ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-- ![Leadership](https://img.shields.io/badge/Leadership-F29E4C?style=flat&logo=marketo&logoColor=white)
-- ![Team Management](https://img.shields.io/badge/Team%20Management-006400?style=flat&logo=teams&logoColor=white)
-- ![Event Management](https://img.shields.io/badge/Event%20Management-0052CC?style=flat&logo=eventbrite&logoColor=white)
-- ![Strategic Planning](https://img.shields.io/badge/Strategic%20Planning-8BB174?style=flat&logo=render&logoColor=white)
-- ![Communication](https://img.shields.io/badge/Communication-FF6F61?style=flat&logo=gmail&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Leadership-F29E4C?style=for-the-badge&logo=marketo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Team%20Management-006400?style=for-the-badge&logo=teams&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Event%20Management-0052CC?style=for-the-badge&logo=eventbrite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Strategic%20Planning-8BB174?style=for-the-badge&logo=render&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Communication-FF6F61?style=for-the-badge&logo=gmail&logoColor=white"/>
+</p>
 
 ---
 
